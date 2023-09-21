@@ -1,0 +1,50 @@
+Ciclos
+    Ciclos o estructuras de repetición son bloques de código que permite ejecutar ciertas acciones n cantidad de veces (repetir algo)
+
+Básicos
+    para o for
+        Cuando se tiene o sabe la cantidad de veces a repetir algo
+    mientras o while
+        Cuando se tiene o sabe la cantidad de veces a repetir algo
+        Cuando no se sabe la cantidad de repeticiones
+        Por defecto es un ciclo infinito
+    repita o do-while
+        Cuando se tiene o sabe la cantidad de veces a repetir algo
+        uando no se sabe la cantidad de repeticiones
+        Por defecto es un ciclo infinito
+Avanzados (Arreglos o vectores)
+    map
+    forEach
+    for of
+    for in
+
+
+Tipos de Variables
+VAR LET CONST
+Scope o alcance de las Variables
+    Variables Globales o Variables locales
+    
+Var siempre será global
+Let puede ser global o local
+Const puede ser global o local
+
+
+Desarrollar un algoritmo que muestre por consola la tabla de multiplicar de un numero ingresado por teclado
+La tabla debe estar expresada en el formato de tabla
+1 * 1 = 1
+1 * 2 = 2
+1 * 3 = 3
+...
+1 * 10 = 10
+
+Contadores y Acumuladores
+Operadores unarios
+++ -> Contadores (n+1)
+-- -> Contador (n-1)
+
++= -> acumulador (suma)
+-= -> acumulador (resta)
+
+No se utiliza mucho
+*= -> acumulador (multiplica)
+/= -> acumulador (Divide)
